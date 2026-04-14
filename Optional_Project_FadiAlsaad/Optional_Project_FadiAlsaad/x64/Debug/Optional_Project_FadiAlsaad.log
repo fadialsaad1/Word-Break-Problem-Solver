@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\fadif\source\repos\Optional_Project_FadiAlsaad\Optional_Project_FadiAlsaad\Main.cpp(39,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fadif\source\repos\Optional_Project_FadiAlsaad\Optional_Project_FadiAlsaad\Main.cpp(72,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Optional_Project_FadiAlsaad.vcxproj -> C:\Users\fadif\source\repos\Optional_Project_FadiAlsaad\x64\Debug\Optional_Project_FadiAlsaad.exe
