@@ -1,3 +1,5 @@
+https://youtu.be/xc51juvFPaY
+
 Fadi Alsaad
 fadialsaad@oakland.edu
 Word Break Problem Solver (Dynamic Programming)
